@@ -4477,6 +4477,24 @@ input, select, textarea {
 
 		}
 
+
+/* Logo */
+
+    .body_logo {
+            display: block;
+            position: relative;
+            text-align:center;
+            border: 0;
+        }
+
+        .body_logo img {
+            display: inline-block;
+            width: 10rem;
+            position: relative;
+        }
+
+
+
 /* Footer */
 
 	#footer {
